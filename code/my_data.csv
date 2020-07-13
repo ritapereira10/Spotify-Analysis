@@ -1306,7 +1306,7 @@ id,title,main_artist,danceability,energy,key,loudness,mode,acousticness,instrume
 4QMzUl7goz1AWynq8DPkmn,Venenosa - Ao Vivo,MC Kevin o Chris,0.657,0.719,8,-8.386,0,0.23,0.0,0.953,0.604,150.067,172800,4,0
 1G81f4gZztTqG9vx5t4eKb,Beat Envolvente,Mc Anônimo,0.762,0.909,11,-1.57,1,0.288,0.0,0.282,0.922,91.084,162198,4,0
 2WlZuBDgLfT7Kc0admhFdg,BRABA,Luísa Sonza,0.811,0.689,0,-5.113,0,0.181,2.55e-05,0.0784,0.663,144.015,129782,4,0
-60wF0XnX7A0jVpDNA5v8vi,Tudo no Sigilo (Vytinho Ng e Bianca),Bianca,0.662,0.7,5,-5.148,0,0.591,0.00238,0.0709,0.705,176.953,156996,4,0
+60wF0XnX7A0jVpDNA5v8vi,Tudo no Sigilo (Vytinho NG e Bianca),Bianca,0.662,0.7,5,-5.148,0,0.591,0.00238,0.0709,0.705,176.953,156996,4,0
 67mqU3FeErlvWwsxnMfvQo,Tudo Aconteceu,Delacruz,0.579,0.346,0,-13.975,0,0.86,2.02e-06,0.0945,0.741,102.374,155125,5,0
 67JokRnfWFJ93mA5HLIw6q,Aquecimento da Lexa,Lexa,0.839,0.929,6,-2.119,1,0.601,0.00159,0.121,0.809,150.066,137600,4,0
 4lKuzrdZrJuCAedbIslF3A,SENTADÃO,JS o Mão de Ouro,0.68,0.869,6,-1.94,1,0.178,0.0,0.223,0.924,173.997,143448,4,0
@@ -1574,7 +1574,7 @@ id,title,main_artist,danceability,energy,key,loudness,mode,acousticness,instrume
 2oZBb87Jgwrg3qYhwsy3BN,Parcerita,Myke Towers,0.814,0.791,0,-6.054,1,0.139,7.29e-05,0.0876,0.775,171.941,207373,4,0
 3X1loMSTysQJiEfhK2KDYA,Gracias,BVDGE,0.832,0.609,6,-6.076,0,0.41,1.67e-05,0.121,0.319,82.516,215275,4,0
 4ODirOUDqNg3lQQLxdq3Jc,El Error (feat. Zion & Lennox) - Remix,Zion,0.779,0.881,9,-3.362,0,0.168,0.0,0.377,0.659,92.02,232213,4,0
-099tjv6oy2opbpCOA3nBwX,Dream Girl - Remix,Rauw Alejandro,0.767,0.643,5,-5.225,1,0.216,0.000104,0.0806,0.536,169.99,192452,4,0
+099tjv6oy2opbpCOA3nBwX,Dream Girl,Rauw Alejandro,0.767,0.643,5,-5.225,1,0.216,0.000104,0.0806,0.536,169.99,192452,4,0
 6sYaS0lARqu6OX6QHf3kzY,Se Cansó (with Darell & Kingz Daddy),Kingz Daddy,0.74,0.704,6,-3.382,0,0.147,1.91e-05,0.156,0.76,190.051,224842,4,0
 62kILhpZWtnQkRpNIFQtJe,Independiente,ASTRO,0.436,0.828,9,-6.162,0,0.44,0.00121,0.747,0.549,83.658,256000,4,0
 5J7teKIJGtqVypgYI6sqXj,Una Vez,Mora,0.55,0.598,11,-5.402,0,0.132,2.58e-06,0.0955,0.543,83.836,232496,4,0
@@ -1780,7 +1780,7 @@ id,title,main_artist,danceability,energy,key,loudness,mode,acousticness,instrume
 2hDe0Ls5mVqs1XJqv7sbcM,Fútbol & Rumba (feat. Enrique Iglesias),Enrique Iglesias,0.735,0.916,2,-2.082,1,0.397,2.91e-06,0.0918,0.691,167.994,221429,4,0
 2L6YJ2mSyqStxQX4OjUOon,Tocándote,Anuel AA,0.815,0.665,0,-4.348,0,0.698,0.0,0.121,0.522,96.229,230945,4,0
 37wl0DQW01r3eDoQDpVyO6,Conmigo,Alex Rose,0.77,0.577,5,-6.069,0,0.677,0.0,0.101,0.587,92.004,201507,4,0
-5b961B4S9vBkCNCuxJ8fxx,Un Chance,De La Iglesia,0.729,0.633,11,-4.223,0,0.574,1.7e-06,0.123,0.555,170.015,240000,4,0
+5b961B4S9vBkCNCuxJ8fxx,Un Chance,De La Iglesia,0.744,0.558,2,-6.147,1,0.623,1.53e-06,0.132,0.54,170.1,229400,4,0
 25c15KvAiyM8DNmDoFqwzm,Bésame (I Need You) (with TINI & Reik),Reik,0.839,0.701,9,-6.029,1,0.0165,0.00365,0.0513,0.273,99.984,136200,4,0
 726hyiwgeAWzrDrtB0cJQN,No Copia,Llane,0.818,0.729,11,-6.377,0,0.228,7.93e-05,0.0845,0.946,99.995,175339,4,0
 7rZduDU7nYkj3zNLTrjSr9,Psicosis,Eloy,0.732,0.781,7,-5.605,0,0.118,1.52e-05,0.254,0.434,169.964,215680,4,0
@@ -2002,7 +2002,7 @@ id,title,main_artist,danceability,energy,key,loudness,mode,acousticness,instrume
 61ZM92T2zaXIVsqncThQzC,In Your Eyes (feat. Alida),Alida,0.57,0.672,8,-5.89,0,0.177,0.0,0.0768,0.448,120.019,208222,4,0
 205M9RkLKErmy1vMcXm3RO,Watershed,Giant Rooks,0.57,0.792,3,-5.031,0,0.148,0.0,0.13,0.432,119.972,218531,4,0
 44ADyYoY5liaRa3EOAl4uf,Slide Away,Miley Cyrus,0.53,0.538,5,-6.672,1,0.17,2.83e-06,0.248,0.288,148.051,233654,4,0
-017PF4Q3l4DBUiWoXk4OWT,Break My Heart,Dua Lipa,0.73,0.729,4,-3.434,0,0.167,1.39e-06,0.349,0.467,113.012,221820,4,0
+017PF4Q3l4DBUiWoXk4OWT,Break My Heart,Dua Lipa,0.73,0.729,4,-3.434,0,0.167,1.39e-06,0.349,0.467,113.013,221820,4,0
 7oIAqDzsqgVpUaMXuultdC,Happy,Oh Wonder,0.698,0.516,6,-8.472,1,0.454,0.0,0.0922,0.516,101.979,172907,4,0
 1p1KeoebO9AtNkxudeoS6v,Made of Bones,James Quick,0.697,0.527,1,-9.996,0,0.605,0.002,0.37,0.35,110.085,212767,4,0
 1pBO9JDqh1y3TbCKEO1OvG,Nostalgic,A R I Z O N A,0.691,0.538,0,-9.952,1,0.246,0.163,0.178,0.329,99.972,182668,4,0
@@ -2627,7 +2627,7 @@ id,title,main_artist,danceability,energy,key,loudness,mode,acousticness,instrume
 0VjIjW4GlUZAMYd2vXMi3b,Blinding Lights,The Weeknd,0.514,0.73,1,-5.934,1,0.00146,9.54e-05,0.0897,0.334,171.005,200040,4,0
 5QU2pHpvyaiTZ0E7cJYlq3,Te Amo,Calema,0.522,0.688,6,-8.772,0,0.24,0.000155,0.368,0.49,126.604,258223,5,0
 22LAwLoDA5b4AaGSkg6bKW,Blueberry Faygo,Lil Mosey,0.774,0.554,0,-7.909,1,0.207,0.0,0.132,0.349,99.034,162547,4,0
-3PfIrDoz19wz7qK7tYeu62,Don't Start Now,Dua Lipa,0.794,0.793,11,-4.521,0,0.0125,0.0,0.0952,0.677,123.941,183290,4,0
+3PfIrDoz19wz7qK7tYeu62,Don't Start Now,Dua Lipa,0.793,0.793,11,-4.521,0,0.0123,0.0,0.0951,0.679,123.95,183290,4,0
 1X3ltingEVNGRoJf1dvZfQ,Somos Iguais,Plutónio,0.645,0.699,6,-7.634,1,0.306,0.000291,0.118,0.574,91.704,237680,4,0
 5RqR4ZCCKJDcBLIn4sih9l,Party Girl,StaySolidRocky,0.728,0.431,6,-9.966,0,0.749,0.0,0.0996,0.629,130.022,147800,4,0
 31sUabnuTnFAM7rjMzKtfN,TRIBUNAL,benji price,0.636,0.666,8,-7.619,0,0.635,0.0,0.258,0.4,188.359,246369,4,0
